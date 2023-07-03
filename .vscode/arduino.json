@@ -1,0 +1,6 @@
+{
+    "sketch": "arm_testing.ino",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "COM6"
+}
